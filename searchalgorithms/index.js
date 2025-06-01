@@ -8,7 +8,7 @@ function search (arr, N, X){
     return -1
 }
 //initliaze the variables required,the arr, the length of the array N,the target value
-let arr = [1,1,1,2,4,5,6,7,8,6,7,6,5,5,7,7,3];
+let arr = [1,1,1,2,4,5,6,7,8,6,7,6,5,5,7,7,3];//dummy array
 let N = arr.length;
 let X = 3;
 
