@@ -13,10 +13,10 @@ def binary_search(arr,X):
         else:
             last = midpoint - 1
     return -1
-    
+#initalize the required variables    
 arr = [2,3,4,5,1,6]
 X = 6
-
+#test algorithm by printing results
 result = binary_search(arr,X)
 if result == -1 :
     print("your target value's index does not exist")
